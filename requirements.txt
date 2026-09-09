@@ -1,9 +1,0 @@
-streamlit>=1.36,<2
-pandas>=2.0,<3
-numpy>=1.26,<3
-opencv-python-headless>=4.9,<5
-scipy>=1.11,<2
-matplotlib>=3.8,<4
-roifile>=2024.1
-aicspylibczi==3.2.0
-czifile>=2019.7.2

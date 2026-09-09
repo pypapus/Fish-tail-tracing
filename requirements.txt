@@ -1,0 +1,9 @@
+streamlit>=1.36
+pandas>=2.0
+numpy
+opencv-python-headless
+scipy
+matplotlib
+roifile
+aicspylibczi
+czifile

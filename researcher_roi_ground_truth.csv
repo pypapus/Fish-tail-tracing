@@ -1,0 +1,10 @@
+sample,filename,reference_notochord_tip_x_px,reference_notochord_tip_y_px,reference_proximal_boundary_x_px,reference_roi_xmin,reference_roi_xmax,reference_roi_ymin,reference_roi_ymax,reference_roi_points,reference_inner_path_end_idx
+1,Ctrl 1.czi,900.0,1206.0,482.0,480,1280,692,1660,37,9
+2,Ctrl 2.czi,1056.0,1413.0,512.0,500,1456,862,1856,29,9
+4,Ctrl 4.czi,764.0,1243.0,196.0,188,1122,682,1784,32,9
+5,Ctrl 5.czi,645.0,1296.0,174.0,172,948,756,1760,30,10
+6,Ctrl 6.czi,898.0,1179.0,356.0,346,1280,674,1626,27,12
+7,Ctrl 7.czi,802.0,1246.0,362.0,362,1206,696,1572,29,10
+8,Ctrl 8.czi,768.0,1150.0,218.0,210,1116,610,1624,32,13
+9,Ctrl 9.czi,706.0,1078.0,210.0,200,1052,590,1712,39,11
+12,Ctrl 12.czi,784.0,1028.0,319.0,316,1074,594,1594,35,8
